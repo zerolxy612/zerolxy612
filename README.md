@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=zerolxy612&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%2F%20Full-stack%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=lxy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%2F%20Full-stack%20Developer&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=React+%2B+TypeScript+Developer;Building+modern+web+apps+with+Next.js;Frontend+craft%2C+full-stack+thinking)](https://git.io/typing-svg)
 
@@ -19,21 +19,14 @@ Frontend / full-stack developer focused on building clean, fast, and practical w
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,js,html,css,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ## Focus
 
 ```ts
-const zerolxy612 = {
+const lxy = {
   role: "Frontend / Full-stack Developer",
   stack: ["React", "TypeScript", "Next.js", "Node.js"],
   interests: ["Web Apps", "UI Engineering", "Full-stack Products"],
@@ -45,9 +38,13 @@ const zerolxy612 = {
 
 <div align="center">
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=zerolxy612&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerolxy612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerolxy612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zerolxy612&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8)
 
 </div>
 
