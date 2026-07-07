@@ -56,20 +56,15 @@ const lxy = {
 
 ---
 
-## `~/` Stats
+## `~/` Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zerolxy612&show_icons=true&hide_border=true&bg_color=0a0420&title_color=00f0ff&icon_color=a855f7&text_color=c9b8ff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerolxy612&layout=compact&hide_border=true&bg_color=0a0420&title_color=00f0ff&text_color=c9b8ff" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=zerolxy612&hide_border=true&background=0a0420&border=0a0420&ring=00f0ff&fire=ff2fd0&currStreakLabel=00f0ff&sideNums=c9b8ff&currStreakNum=00f0ff&dates=6f5a9e&sideLabels=a855f7&stroke=a855f7" />
-
-<br/>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=zerolxy612&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 </div>
 
