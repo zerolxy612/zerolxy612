@@ -1,84 +1,75 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="LXY — frontend-focused full-stack developer" width="100%" />
+</p>
 
-<img src="./assets/banner.svg" alt="zerolxy612 - Frontend / Full-stack Developer" width="100%" />
+# LXY
 
-<br/>
+**Frontend-focused full-stack developer building AI applications, interactive web systems, and practical products with React and TypeScript.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=React+%2B+TypeScript+Developer;Building+modern+web+apps+with+Next.js;Frontend+craft%2C+full-stack+thinking)](https://git.io/typing-svg)
+I care about readable interfaces, maintainable systems, and the less visible work that makes software dependable: testing, accessibility, documentation, and careful review.
 
-</div>
+[Explore my portfolio](https://lxy-lab.vercel.app) · [View my open-source contribution](https://github.com/Tencent/teamai-cli/pull/685) · [Email me](mailto:zerolxy612@gmail.com)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-00F0FF?style=flat-square&labelColor=0a0420" />
-  <img src="https://img.shields.io/badge/Stack-Full--stack-A855F7?style=flat-square&labelColor=0a0420" />
-  <img src="https://img.shields.io/badge/Status-Building-FF2FD0?style=flat-square&labelColor=0a0420" />
-</div>
+## Selected work
 
----
+### [Xiangyu's AI Lab](https://lxy-lab.vercel.app)
 
-## `~/` About
+An explorable pixel-art portfolio that presents AI application engineering and product work through a walkable research lab set in a future Hong Kong.
 
-Frontend / full-stack developer focused on building clean, fast, and practical web applications.
+- React 19 and TypeScript own the readable content, navigation, accessibility, and contact surfaces.
+- Phaser 3 owns movement, collision, proximity, and the spatial world; a typed event bridge connects both layers.
+- Includes a content-first mobile experience, reduced-motion support, tests, and a documented asset pipeline.
 
-```ts
-const lxy = {
-  role: "Frontend / Full-stack Developer",
-  stack: ["React", "TypeScript", "Next.js", "Node.js"],
-  interests: ["Web Apps", "UI Engineering", "Full-stack Products"],
-  currently: "Improving full-stack skills through real projects",
-  contact: "zerolxy612@gmail.com",
-};
-```
+[Live experience](https://lxy-lab.vercel.app) · [Source and engineering notes](https://github.com/zerolxy612/lxy-lab)
 
----
+<a href="https://lxy-lab.vercel.app">
+  <img src="https://raw.githubusercontent.com/zerolxy612/lxy-lab/main/public/assets/brand/og-xiangyu-ai-lab-v1.png" alt="Xiangyu's AI Lab — an explorable pixel-art portfolio" width="100%" />
+</a>
 
-## `~/` Tech Stack
+### [DramaForge](https://drama-forge-web.vercel.app)
 
-<div align="center">
+A Web3 and AIGC short-drama prototype where viewers advance branching stories and register reusable creative assets on Solana.
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,js,html,css,tailwind,git,github&theme=dark)](https://skillicons.dev)
+- Next.js 14, TypeScript, Tailwind CSS, and Zustand power the product interface.
+- Rust and Anchor programs model dramas, story nodes, asset registration, and token rewards.
+- The repository includes a system design document, local validator workflow, and contract-level project structure.
 
-</div>
+[Live prototype](https://drama-forge-web.vercel.app) · [Source and architecture](https://github.com/zerolxy612/lexihk-contract-demo)
 
----
+## Open source
 
-## `~/` Contribution Snake
+### [Tencent/teamai-cli — prompt summary privacy fix](https://github.com/Tencent/teamai-cli/pull/685)
 
-<div align="center">
+Fixed a privacy-sensitive persistence bug where raw prompt content could reach local logs without redaction.
+
+- Applied redaction before summary truncation and persistence.
+- Added regression coverage and end-to-end verification across multiple providers and agent event formats.
+- Updated the English and Chinese documentation to describe persisted data accurately.
+- Passed the project's full test and build checks, received maintainer approval, and shipped in [`v0.25.0-beta.5`](https://github.com/Tencent/teamai-cli/releases/tag/v0.25.0-beta.5).
+
+[Read the merged pull request](https://github.com/Tencent/teamai-cli/pull/685) · [View the release](https://github.com/Tencent/teamai-cli/releases/tag/v0.25.0-beta.5)
+
+## Engineering focus
+
+- **Product frontend:** React, Next.js, TypeScript, responsive interfaces, and accessible interaction design
+- **Interactive systems:** Phaser, state and event boundaries, browser audio, and spatial interfaces
+- **Full-stack products:** Node.js, APIs, authentication, deployment, and Web3 integration
+- **Quality and collaboration:** Vitest, end-to-end verification, debugging, code review, and technical documentation
+
+## Current direction
+
+I am building production-minded web products, exploring reliable AI application interfaces, and contributing tested fixes to active open-source projects.
+
+## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zerolxy612/zerolxy612/output/snake-neon.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zerolxy612/zerolxy612/output/snake-dark.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/zerolxy612/zerolxy612/output/snake-neon.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zerolxy612/zerolxy612/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zerolxy612/zerolxy612/output/snake-light.svg" />
+  <img alt="GitHub contribution history" src="https://raw.githubusercontent.com/zerolxy612/zerolxy612/output/snake-dark.svg" width="100%" />
 </picture>
 
-</div>
+## Contact
 
----
+Interested in frontend engineering, full-stack product work, and open-source collaboration.
 
-## `~/` Activity
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=zerolxy612&hide_border=true&background=0a0420&border=0a0420&ring=00f0ff&fire=ff2fd0&currStreakLabel=00f0ff&sideNums=c9b8ff&currStreakNum=00f0ff&dates=6f5a9e&sideLabels=a855f7&stroke=a855f7" />
-
-</div>
-
----
-
-## `~/` Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-zerolxy612%40gmail.com-00f0ff?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0a0420)](mailto:zerolxy612@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-zerolxy612-a855f7?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0a0420)](https://github.com/zerolxy612)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=zerolxy612&label=Profile%20Views&color=00f0ff&style=flat-square&base=0" alt="profile views" />
-
-</div>
+[zerolxy612@gmail.com](mailto:zerolxy612@gmail.com) · [GitHub](https://github.com/zerolxy612)
