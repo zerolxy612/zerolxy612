@@ -8,7 +8,7 @@
 
 I care about readable interfaces, maintainable systems, and the less visible work that makes software dependable: testing, accessibility, documentation, and careful review.
 
-[Explore my portfolio](https://lxy-lab.vercel.app) · [View my open-source contribution](https://github.com/Tencent/teamai-cli/pull/685) · [Email me](mailto:zerolxy612@gmail.com)
+[Explore my portfolio](https://lxy-lab.vercel.app) · [View my open-source contributions](#open-source) · [Email me](mailto:zerolxy612@gmail.com)
 
 ## Selected work
 
@@ -37,6 +37,17 @@ A Web3 and AIGC short-drama prototype where viewers advance branching stories an
 [Live prototype](https://drama-forge-web.vercel.app) · [Source and architecture](https://github.com/zerolxy612/lexihk-contract-demo)
 
 ## Open source
+
+### [enisdenjo/graphql-ws — operation ID compatibility fix](https://github.com/enisdenjo/graphql-ws/pull/695)
+
+Fixed WebSocket server subscription bookkeeping that rejected valid operation IDs such as `__proto__`, `constructor`, and `toString` as duplicates.
+
+- Used null-prototype objects for the per-connection subscription registry during initialization and cleanup.
+- Added protocol-level regression tests covering all three special operation IDs.
+- Passed format, type, CodeQL, and the Node.js 20/22/24 × GraphQL 15/16/17 test matrix.
+- Received maintainer approval and was merged into `master`.
+
+[Read the merged pull request](https://github.com/enisdenjo/graphql-ws/pull/695) · [View the merge commit](https://github.com/enisdenjo/graphql-ws/commit/93c8ebf2096e31b5b6b06037d288732c00aa69a6)
 
 ### [Tencent/teamai-cli — prompt summary privacy fix](https://github.com/Tencent/teamai-cli/pull/685)
 
